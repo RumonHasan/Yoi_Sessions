@@ -1,0 +1,22 @@
+.header-container {
+  width: 100vw;
+  background-color: rgb(57, 57, 241);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.menu-item {
+  padding: 10px;
+  cursor: pointer;
+  background-color: rgb(38, 3, 212);
+  margin-right: 10px;
+}
+
+.falseColor {
+  color: yellow;
+}
+.trueColor {
+  color: rgb(19, 230, 19);
+}
